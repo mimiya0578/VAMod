@@ -1,6 +1,6 @@
 简介
 -----
-**VAMod** 是基于[VAExposed](https://github.com/android-hacker/VAExposed) 进行的二次开发项目。
+**VAMod** 是基于VAExposed进行的二次开发项目。
   
   
 ⚠️
@@ -40,8 +40,8 @@
 致谢
 ------
   
-1. [VAExposed](https://github.com/android-hacker/VAExposed)  
-2. [Xposed](https://github.com/rovo89/Xposed)
+1. VAExposed
+2. Xposed
  
 
 
