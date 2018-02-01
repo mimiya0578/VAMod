@@ -10,7 +10,7 @@
   
 准备
 ----------
-在 [发布页面]()下载最新的VAMod安装包安装到手机。
+在 [发布页面](https://github.com/mimiya0578/VAMod/releases)下载最新的VAMod安装包安装到手机。
   
   
 升级日志
