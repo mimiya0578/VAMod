@@ -3,7 +3,7 @@
 
 Introduction
 -----
-** VAMod ** is a secondary development project based on [VAExposed] https://github.com/android-hacker/VAExposed.
+** VAMod ** is a secondary development project based on [VAExposed]https://github.com/android-hacker/VAExposed.
 
 
 ⚠️
