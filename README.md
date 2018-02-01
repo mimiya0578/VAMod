@@ -3,7 +3,7 @@
 
 Introduction
 -----
-** VAMod ** is a secondary development project based on [VAExposed](https://github.com/android-hacker/VAExposed) .
+** VAMod ** is a secondary development project based on VAExposed .
 
 
 ⚠️
@@ -13,7 +13,7 @@ VAExposed, the original project of this project, is not allowed to be used for c
 
 ready
 ----------
-Download the latest VAMod installation package on [Release Page] () to your phone.
+Download the latest VAMod installation package on [Release Page](https://github.com/mimiya0578/VAMod/releases) to your phone.
 
 
 Upgrade log
@@ -21,7 +21,7 @@ Upgrade log
 ======== 1.1 ==========  
 1. Correct some text description  
 2. Added the prompt you are installing  
-
+  
 ======== 1.0 ==========  
 1.Amend a lot of interface bug, add a lot of tips  
 2. Remove the development process log, will be much faster than before  
@@ -42,5 +42,5 @@ note
 Thanks
 ------
 
-1. [VirtualApp](https://github.com/asLody/VirtualApp)
-2. [Xposed](https://github.com/rovo89/Xposed)
+1. VAExposed
+2. Xposed
