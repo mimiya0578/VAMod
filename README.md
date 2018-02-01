@@ -19,10 +19,12 @@ Download the latest VAMod installation package on [Release Page] () to your phon
 Upgrade log
 -----------
 ======== 1.1 ==========
+
 1. Correct some text description
 2. Added the prompt you are installing
 
 ======== 1.0 ==========
+
 Amend a lot of interface bug, add a lot of tips
 2. Remove the development process log, will be much faster than before
 3. Added mod folder in phone memory
